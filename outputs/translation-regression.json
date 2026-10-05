@@ -1,0 +1,96 @@
+{
+  "note": "Live outputs for human semantic review. HTTP success is not an accuracy score.",
+  "results": [
+    {
+      "sourceLanguage": "en",
+      "targetLanguage": "fr",
+      "text": "Can you send the report tomorrow? I do not need it today.",
+      "status": 200,
+      "translation": "Tu peux envoyer le rapport demain ? Je n'en ai pas besoin aujourd'hui."
+    },
+    {
+      "sourceLanguage": "en",
+      "targetLanguage": "es",
+      "text": "Can you send the report tomorrow? I do not need it today.",
+      "status": 200,
+      "translation": "¿Puedes enviar el informe mañana? No lo necesito hoy."
+    },
+    {
+      "sourceLanguage": "en",
+      "targetLanguage": "hi",
+      "text": "Can you send the report tomorrow? I do not need it today.",
+      "status": 200,
+      "translation": "क्या आप कल रिपोर्ट भेज सकते हैं? मुझे आज की जरूरत नहीं है।"
+    },
+    {
+      "sourceLanguage": "fr",
+      "targetLanguage": "en",
+      "text": "Pouvez-vous envoyer le rapport demain ? Je n'en ai pas besoin aujourd'hui.",
+      "status": 200,
+      "translation": "Can you send the report tomorrow? I don't need it today."
+    },
+    {
+      "sourceLanguage": "fr",
+      "targetLanguage": "es",
+      "text": "Pouvez-vous envoyer le rapport demain ? Je n'en ai pas besoin aujourd'hui.",
+      "status": 200,
+      "translation": "¿Puedes enviar el informe mañana? No lo necesito hoy."
+    },
+    {
+      "sourceLanguage": "fr",
+      "targetLanguage": "hi",
+      "text": "Pouvez-vous envoyer le rapport demain ? Je n'en ai pas besoin aujourd'hui.",
+      "status": 200,
+      "translation": "क्या आप कल रिपोर्ट भेज सकते हैं? मुझे आज की जरूरत नहीं है।"
+    },
+    {
+      "sourceLanguage": "es",
+      "targetLanguage": "en",
+      "text": "¿Puede enviar el informe mañana? No lo necesito hoy.",
+      "status": 200,
+      "translation": "Can you send the report tomorrow? I don't need it today."
+    },
+    {
+      "sourceLanguage": "es",
+      "targetLanguage": "fr",
+      "text": "¿Puede enviar el informe mañana? No lo necesito hoy.",
+      "status": 200,
+      "translation": "Tu peux envoyer le rapport demain ? Je n'en ai pas besoin."
+    },
+    {
+      "sourceLanguage": "es",
+      "targetLanguage": "hi",
+      "text": "¿Puede enviar el informe mañana? No lo necesito hoy.",
+      "status": 200,
+      "translation": "क्या आप कल रिपोर्ट भेज सकते हैं? मुझे आज की जरूरत नहीं है।"
+    },
+    {
+      "sourceLanguage": "hi",
+      "targetLanguage": "en",
+      "text": "क्या आप कल रिपोर्ट भेज सकते हैं? मुझे आज इसकी जरूरत नहीं है।",
+      "status": 200,
+      "translation": "Can you send reports tomorrow? I do not need it today."
+    },
+    {
+      "sourceLanguage": "hi",
+      "targetLanguage": "fr",
+      "text": "क्या आप कल रिपोर्ट भेज सकते हैं? मुझे आज इसकी जरूरत नहीं है।",
+      "status": 200,
+      "translation": "Tu peux envoyer des rapports demain ? Je n'en ai pas besoin aujourd'hui."
+    },
+    {
+      "sourceLanguage": "hi",
+      "targetLanguage": "es",
+      "text": "क्या आप कल रिपोर्ट भेज सकते हैं? मुझे आज इसकी जरूरत नहीं है।",
+      "status": 200,
+      "translation": "¿Puedes enviar informes mañana? No lo necesito hoy."
+    },
+    {
+      "sourceLanguage": "fr",
+      "targetLanguage": "en",
+      "text": "Désolé, vous savez qu'il y a un bon restaurant à proximité où vous avez de la nourriture locale ?",
+      "status": 200,
+      "translation": "Sorry, you know there's a good restaurant nearby where you have local food?"
+    }
+  ]
+}

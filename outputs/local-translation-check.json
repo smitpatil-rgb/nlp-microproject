@@ -1,0 +1,41 @@
+{
+  "provider": "Installed local LibreTranslate/Argos models (no mocks)",
+  "results": [
+    {
+      "direction": "en-hi",
+      "status": 200,
+      "seconds": 6.848,
+      "translation": "प्रौद्योगिकी लोगों को संवाद करने में मदद करती है।"
+    },
+    {
+      "direction": "hi-en",
+      "status": 200,
+      "seconds": 3.214,
+      "translation": "The technique helps people communicate."
+    },
+    {
+      "direction": "en-fr",
+      "status": 200,
+      "seconds": 2.931,
+      "translation": "Veuillez envoyer le rapport demain."
+    },
+    {
+      "direction": "fr-en",
+      "status": 200,
+      "seconds": 2.917,
+      "translation": "Please send the report tomorrow."
+    },
+    {
+      "direction": "en-es",
+      "status": 200,
+      "seconds": 2.521,
+      "translation": "El museo está cerrado el lunes."
+    },
+    {
+      "direction": "es-en",
+      "status": 200,
+      "seconds": 4.043,
+      "translation": "The museum is closed on Monday."
+    }
+  ]
+}
